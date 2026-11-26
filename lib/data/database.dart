@@ -90,7 +90,7 @@ class AppDatabase {
       ('Capacete de segurança classe B', '31469', '2028-03-10', 40, 730),
       ('Óculos de proteção incolor', '10346', '2027-08-22', 60, 180),
       ('Protetor auricular tipo plug', '5745', '2027-01-15', 120, 30),
-      ('Luva nitrílica', '38150', '2026-12-05', 4, 15),
+      ('Luva nitrílica', '38150', '2027-12-05', 4, 15),
       ('Botina de segurança com bico', '42291', '2028-06-30', 18, 365),
       ('Respirador PFF2', '39203', '2026-10-01', 35, 7),
     ];

@@ -60,6 +60,9 @@ flutter build apk    # gera build/app/outputs/flutter-apk/app-release.apk
 Na primeira execução o banco é criado com dados de exemplo (EPIs com CAs
 fictícios e 4 colaboradores). **Acesso de demonstração:** `admin@hc.com` / `hc123456`.
 
+O roteiro da apresentação, com a divisão entre os integrantes, está em
+[`docs/ROTEIRO-APRESENTACAO.md`](docs/ROTEIRO-APRESENTACAO.md).
+
 ## Estrutura
 
 ```
